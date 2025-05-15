@@ -25,7 +25,7 @@ To begin with, I created a virtual environment and used the `requirements.txt` f
 ### Step 1: Clone the repository
 ```bash
 git clone https://github.com/alam-alam/alam-phishing-url.git
-cd alam-phishing-url
+cd Enhancing-Phishing-URL-Detection-Using-Machine-Learning-Model-A-Feature-Driven-Approach
 ```
 
 ### Step 2: Install dependencies
