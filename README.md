@@ -10,7 +10,7 @@ For this project, I worked with the **PhiUSIIL Phishing URL Dataset**, which is 
 
 Dataset Link : https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset
 
-To use the dataset, I first downloaded it from Kaggle and placed it inside the `data` directory of my project like this:
+To use the dataset, I first downloaded it and placed it inside the `data` directory of my project like this:
 
 ```
 project-root/
