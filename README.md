@@ -8,6 +8,8 @@ This project is designed to support the research paper titled **"Enhancing Phish
 
 For this project, I worked with the **PhiUSIIL Phishing URL Dataset**, which is publicly available on Kaggle. The dataset contains over 235,000 URLs, and each entry is labeled as either phishing (`1`) or legitimate (`0`). What I liked about this dataset is that it includes 54 features that capture different characteristics of a URL, such as structure, domain elements, and content-based hints.
 
+Dataset Link : https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset
+
 To use the dataset, I first downloaded it from Kaggle and placed it inside the `data` directory of my project like this:
 
 ```
