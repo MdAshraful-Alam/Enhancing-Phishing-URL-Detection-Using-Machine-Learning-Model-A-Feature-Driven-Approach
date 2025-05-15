@@ -272,7 +272,6 @@ from sklearn.metrics import classification_report, roc_auc_score
 
 
 
-
 ## 📦 Output Files
 
 - `random_forest_model.pkl`: My final trained model
@@ -282,24 +281,6 @@ from sklearn.metrics import classification_report, roc_auc_score
 
 ---
 
-## 🚀 Future Work
 
-I believe there’s room to extend this work further:
-- Add more models like XGBoost or LightGBM
-- Use SHAP or LIME for deep feature interpretation
-- Deploy this as a REST API using Flask or FastAPI
-- Build a simple web interface for real-time phishing detection
 
----
 
-## 📜 License
-
-This project is available under the MIT License. You can use it for academic or commercial projects with proper credit.
-
----
-
-## 📣 Citation
-
-If this project helps you in your research, please cite my paper:
-
-**"Enhancing Phishing URL Detection Using Machine Learning Model: A Feature-Driven Approach"**
